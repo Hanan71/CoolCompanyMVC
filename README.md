@@ -27,7 +27,7 @@ This project was developed during the cooperative training / internship evaluati
 ### 🔄 Version & Heritage
 
 > **📌 Upgraded Version:** This repository represents the modernized **MVC-based architecture** upgraded from the initial static front-end project.
->[![Original Front-End Version](https://img.shields.io/badge/Original_Version-Static_Frontend-6c757d?style=for-the-badge&logo=github&logoColor=white&labelColor=212529)](https://github.com/Hanan71/Cool-Company/blob/main/README.md) 👈 Click to view the original repository & documentation
+[![Original Front-End Version](https://img.shields.io/badge/Original_Version-Static_Frontend-4b5563?style=for-the-badge&logo=github&logoColor=white&labelColor=9ca3af)](https://github.com/Hanan71/Cool-Company/blob/main/README.md) 👈 Click to view the original repository & documentation
 
 ---
  📷 Screenshots
