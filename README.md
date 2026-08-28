@@ -18,6 +18,20 @@ The site includes a public-facing homepage and an admin dashboard to manage caro
 
 ---
 
+## 💡 Overview
+<img width="60" align="right" alt="Jawraa Logo" src="https://github.com/user-attachments/assets/537d8b0a-1a0c-4e9b-8b23-13292f1aaa32" />
+
+This project was developed during the cooperative training / internship evaluation at **Jawraa (شركة جوراء)** as an advanced full-stack iteration of the original portfolio project. It refactors the static front-end architecture into an enterprise-grade **ASP.NET Core MVC** web application, implementing clean architectural patterns, dynamic routing, and modular component structuring.
+
+---
+
+### 🔄 Version & Heritage
+
+> **📌 Upgraded Version:** This repository represents the modernized **MVC-based architecture** upgraded from the initial static front-end project.
+
+[![Original Front-End Version](https://img.shields.io/badge/Original_Version-Static_Frontend-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/Hanan71/Cool-Company/blob/main/README.md) 👈 Click to view the original repository & documentation
+
+---
  📷 Screenshots
 
 
