@@ -36,6 +36,7 @@ This project was developed during the cooperative training / internship evaluati
 
 <img width="1415" alt="Screenshot 2025-06-28 at 11 59 17 AM" src="https://github.com/user-attachments/assets/77431163-8e05-4cc4-86e0-33ae2d06aa0d" />
 
+---
 <img width="1429" alt="Screenshot 2025-06-28 at 12 00 08 PM" src="https://github.com/user-attachments/assets/22999a59-cb31-4129-a7a2-5bef6d4e49ac" />
 
 
