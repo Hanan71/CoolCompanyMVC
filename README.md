@@ -9,19 +9,18 @@ The site includes a public-facing homepage and an admin dashboard to manage caro
 
 ---
 
+<img width="60" align="right" alt="Jawraa Logo" src="https://github.com/user-attachments/assets/537d8b0a-1a0c-4e9b-8b23-13292f1aaa32" />
+
+This project was developed during the cooperative training / internship evaluation at **Jawraa (شركة جوراء)** as an advanced full-stack iteration of the original portfolio project. It refactors the static front-end architecture into an enterprise-grade **ASP.NET Core MVC** web application, implementing clean architectural patterns, dynamic routing, and modular component structuring.
+
+---
+
  🚀 Features
 
 - Modern homepage with a responsive design
 - Admin dashboard to manage carousel images and complaints
 - Database provided as a `.bak` file for easy restoration
 - Fully compatible with hosting platforms like Azure or Somee
-
----
-
-## 💡 Overview
-<img width="60" align="right" alt="Jawraa Logo" src="https://github.com/user-attachments/assets/537d8b0a-1a0c-4e9b-8b23-13292f1aaa32" />
-
-This project was developed during the cooperative training / internship evaluation at **Jawraa (شركة جوراء)** as an advanced full-stack iteration of the original portfolio project. It refactors the static front-end architecture into an enterprise-grade **ASP.NET Core MVC** web application, implementing clean architectural patterns, dynamic routing, and modular component structuring.
 
 ---
 
