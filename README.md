@@ -66,3 +66,4 @@ This project was developed during the cooperative training / internship evaluati
 ┗ 📄 Database.bak
 </pre>
 
+[![Explore Latest Version](https://img.shields.io/badge/Upgrade-Explore%20Latest%20Core%20Version-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Hanan71/CoolCompany_CoreVersion)  👈 Click to view the  latest version
