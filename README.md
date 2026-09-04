@@ -54,6 +54,7 @@ This project was developed during the cooperative training / internship evaluati
 
 📁 Project Structure:
 
+<pre>
 📦 CoolCompanyMVC
 ┣ 📁 Controllers
 ┣ 📁 Views
@@ -63,6 +64,5 @@ This project was developed during the cooperative training / internship evaluati
 ┣ 📄 README.md
 ┣ 📄 CoolCompanyMVC.sln
 ┗ 📄 Database.bak
-
-
+</pre>
 
